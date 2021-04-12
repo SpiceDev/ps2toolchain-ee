@@ -3,7 +3,7 @@
 
 ## Download the source code.
 ## Download the source code.
-REPO_URL="https://github.com/ps2dev/binutils-gdb.git"
+REPO_URL="https://github.com/SpiceDev/binutils-gdb.git"
 REPO_FOLDER="binutils-gdb"
 BRANCH_NAME="ee-v2.36.0"
 if test ! -d "$REPO_FOLDER"; then
